@@ -25,6 +25,7 @@ pip install -e ./CLIP & pip install -e ./guided-diffusion
 ```console
 wget -O unconditional_diffusion.pt https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion_uncond.pt
 ```
+- put the checkpoint into the "model" folder
 
 ### Sampling
 
