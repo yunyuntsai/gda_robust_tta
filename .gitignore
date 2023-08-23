@@ -1,6 +1,7 @@
 .env
 unconditional_diffusion.pt
 samples
+samples.zip
 models
 loss_histogram
 output
