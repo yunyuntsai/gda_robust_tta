@@ -6,7 +6,7 @@
 
 
 ### Flow of ours proposed method
-<img src="./figs/diffusion_flow.png" alt="diffusion" class="bg-primary" width="200px">
+<img src="./figs/diffusion_flow.png" alt="diffusion" width="600px">
 
 
 ### Setup project
