@@ -1,4 +1,4 @@
-Improving Out-Of-Distribution Robustness for Vision Tasks via Stable Diffusion
+## Amazon Intern Project: Improving Out-Of-Distribution Robustness for Vision Tasks via Stable Diffusion
 
 Implementaiton based on [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer ](https://arxiv.org/abs/2303.08622).
 
