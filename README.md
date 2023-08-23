@@ -5,6 +5,10 @@
 - Implementation is based on [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer ](https://arxiv.org/abs/2303.08622).
 
 
+### Flow of ours proposed method
+<img src="./figs/diffusion_flow.png" alt="diffusion" class="bg-primary" width="200px">
+
+
 ### Setup project
 
 - Clone submodules:
