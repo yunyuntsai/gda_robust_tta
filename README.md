@@ -31,6 +31,9 @@ wget -O unconditional_diffusion.pt https://openaipublic.blob.core.windows.net/di
 ```
 - put the checkpoint into the "model" folder
 
+
+-- Download ImageNet corruption data from this link https://github.com/hendrycks/robustness
+
 ### Sampling
 
 Run
