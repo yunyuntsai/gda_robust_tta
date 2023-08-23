@@ -29,6 +29,9 @@ wget -O unconditional_diffusion.pt https://openaipublic.blob.core.windows.net/di
 Run
 
 ```console
+cd guided-diffusion
+export PYTHONPATH="$PWD:$PYTHONPATH" 
+cd ../
 CUDA_VISIBLE_DEVICES=0 python main.py --severity 3 --corruption snow --guided_type marginal --ensemble --skip_timesteps 45
 ```
 
