@@ -1,9 +1,11 @@
-# Amazon Intern Project: Improving Out-Of-Distribution Robustness for Vision Tasks via Stable Diffusion
+## Amazon Intern Project
 
-= Implementation is based on [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer ](https://arxiv.org/abs/2303.08622).
+### Improving Out-Of-Distribution Robustness for Vision Tasks via Stable Diffusion
+
+- Implementation is based on [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer ](https://arxiv.org/abs/2303.08622).
 
 
-## Setup project
+### Setup project
 
 - Clone submodules:
 
@@ -24,7 +26,7 @@ pip install -e ./CLIP & pip install -e ./guided-diffusion
 wget -O unconditional_diffusion.pt https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion_uncond.pt
 ```
 
-## Sampling
+### Sampling
 
 Run
 
