@@ -6,4 +6,5 @@ models
 loss_histogram
 output
 elin.jpg
+visualization.ipynb
 __pycache__
