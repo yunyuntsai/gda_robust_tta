@@ -32,7 +32,7 @@ wget -O unconditional_diffusion.pt https://openaipublic.blob.core.windows.net/di
 - put the checkpoint into the "model" folder
 
 
--- Download ImageNet corruption data from this link https://github.com/hendrycks/robustness
+-- Download ImageNet corruption data from this link https://github.com/hendrycks/robustness amd put the under samples/ folder.
 
 ### Sampling
 
@@ -42,7 +42,7 @@ Run
 cd guided-diffusion
 export PYTHONPATH="$PWD:$PYTHONPATH" 
 cd ../
-CUDA_VISIBLE_DEVICES=0 python main.py --severity 3 --corruption snow --guided_type marginal --ensemble --skip_timesteps 45
+CUDA_VISIBLE_DEVICES=0 python main.py --severity 3 --corruption snow --guided_type weighted-marginal --ensemble --skip_timesteps 45
 ```
 
 or Run 
