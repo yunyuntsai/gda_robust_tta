@@ -1,8 +1,8 @@
-## Amazon Intern Project
+## GDA: Generalized Diffusion for Robust Test-time Adaptation
 
-### Improving Out-Of-Distribution Robustness for Vision Tasks via Stable Diffusion
+### THis is the source code of [GDA: Generalized Diffusion for Robust Test-time Adaptation (CVPR'24) ](https://arxiv.org/abs/2404.00095)
 
-- Implementation is based on [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer ](https://arxiv.org/abs/2303.08622).
+<!-- - Implementation is based on [Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer ](https://arxiv.org/abs/2303.08622). -->
 
 
 ### Flow of ours proposed method
