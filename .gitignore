@@ -8,3 +8,4 @@ output
 elin.jpg
 visualization.ipynb
 __pycache__
+guided-diffusion/guided-diffusion/__pycache__
